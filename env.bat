@@ -1,0 +1,2 @@
+set NODE_API_URL=https://young-withered-moon.rinkeby.quiknode.pro/efbd9ba357dbbfac5c0792fd5e25f339039cad1a/
+set RINKEBY_PRIVATE_KEY=e4a55cd9003addadcd2159d2228287a9242231070ade73d566d2bb9eb7474243
